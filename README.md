@@ -1,3 +1,10 @@
+# Seasons
+### This is a simple website which will detect the weather condition in which the user is experiencing in the real world.
+
+### This website is live here: https://nancyjain0631.github.io/Seasons-nancyjain/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Made with ❤️ by Nancy
